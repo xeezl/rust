@@ -1,0 +1,22 @@
+.color:hover {
+  background:#ce1c1c;
+}
+.bg{
+	background: #1c1b1b;
+}
+.bg1{
+	background: #232222;
+}
+.semiopacity {
+    background: #738d45; /* Цвет фона */
+    padding: 5px; /* Поля вокруг текста */
+    opacity: 0.9; /* Полупрозрачный фон */
+    filter: alpha(Opacity=70); /* Прозрачность в IE */
+    color: #fff; /* Цвет текста */
+}
+p{
+	color: white;
+}
+a{
+	color: white;
+}
